@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "Tap Color Fast",
+  "short_name": "TapColorFast",
+  "description": "Find It. Tap It. Beat Your Best! High-octane color reaction casual mobile game by GM Projects.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07090e",
+  "theme_color": "#090d16",
+  "categories": ["games", "puzzle"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
